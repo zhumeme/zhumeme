@@ -16,4 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```all_time
+From: 03 August 2023 - To: 10 August 2023
+
+Total Time: 3 mins
+
+Go     3 mins          >>>>>>>>>>>>>>>>>>>>>>---   86.64 %
+YAML   0 secs          >>>----------------------   13.36 %
+```
+
 <!--END_SECTION:waka-->
