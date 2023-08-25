@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 August 2023 - To: 23 August 2023
+From: 17 August 2023 - To: 24 August 2023
 
-Total Time: 27 hrs 36 mins
+Total Time: 18 hrs 55 mins
 
-Go               27 hrs 18 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.95 %
-JSON             6 mins          -------------------------   00.37 %
-YAML             5 mins          -------------------------   00.31 %
-Ezhil            2 mins          -------------------------   00.15 %
-Vim Script       2 mins          -------------------------   00.13 %
-ActionScript 3   1 min           -------------------------   00.10 %
+Go               18 hrs 38 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.47 %
+JSON             6 mins          -------------------------   00.53 %
+YAML             5 mins          -------------------------   00.44 %
+Ezhil            2 mins          -------------------------   00.22 %
+Vim Script       2 mins          -------------------------   00.19 %
+ActionScript 3   1 min           -------------------------   00.14 %
 ```
 
 <!--END_SECTION:waka-->
