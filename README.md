@@ -18,18 +18,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 14 September 2023 - To: 21 September 2023
+From: 15 September 2023 - To: 22 September 2023
 
-Total Time: 16 hrs 29 mins
+Total Time: 9 hrs 42 mins
 
-Go               13 hrs 39 mins  >>>>>>>>>>>>>>>>>>>>>----   82.74 %
-Python           1 hr 54 mins    >>>----------------------   11.55 %
-SQL              22 mins         >------------------------   02.24 %
-JSON             21 mins         >------------------------   02.20 %
-go.mod           10 mins         -------------------------   01.07 %
-Markdown         1 min           -------------------------   00.18 %
+Go               7 hrs 12 mins   >>>>>>>>>>>>>>>>>>>------   74.31 %
+Python           1 hr 54 mins    >>>>>--------------------   19.65 %
+JSON             17 mins         >------------------------   03.07 %
+SQL              17 mins         >------------------------   02.95 %
 GitIgnore file   0 secs          -------------------------   00.02 %
 Text             0 secs          -------------------------   00.01 %
+go.mod           0 secs          -------------------------   00.00 %
 Ezhil            0 secs          -------------------------   00.00 %
 ```
 
