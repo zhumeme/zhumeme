@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 November 2023 - To: 26 November 2023
+From: 20 November 2023 - To: 27 November 2023
 
-Total Time: 26 hrs 1 min
+Total Time: 28 hrs 41 mins
 
-Go               21 hrs 14 mins  >>>>>>>>>>>>>>>>>>>>-----   81.22 %
-YAML             1 hr 14 mins    >------------------------   04.76 %
-SQL              1 hr 8 mins     >------------------------   04.36 %
-Docker           46 mins         >------------------------   02.98 %
-Bash             35 mins         >------------------------   02.24 %
-Text             12 mins         -------------------------   00.80 %
-Shell Script     10 mins         -------------------------   00.68 %
-GitIgnore file   10 mins         -------------------------   00.66 %
-XML              10 mins         -------------------------   00.64 %
-go.mod           9 mins          -------------------------   00.60 %
+Go               22 hrs 37 mins  >>>>>>>>>>>>>>>>>>>>-----   78.47 %
+SQL              1 hr 29 mins    >------------------------   05.16 %
+YAML             1 hr 24 mins    >------------------------   04.91 %
+Bash             50 mins         >------------------------   02.92 %
+Docker           46 mins         >------------------------   02.71 %
+Markdown         35 mins         >------------------------   02.04 %
+Text             12 mins         -------------------------   00.73 %
+Shell Script     10 mins         -------------------------   00.62 %
+GitIgnore file   10 mins         -------------------------   00.60 %
+XML              10 mins         -------------------------   00.58 %
 ```
 
 <!--END_SECTION:waka-->
