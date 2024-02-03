@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 25 January 2024 - To: 01 February 2024
+From: 26 January 2024 - To: 02 February 2024
 
-Total Time: 16 hrs 52 mins
+Total Time: 12 hrs 40 mins
 
-Go               14 hrs 19 mins  >>>>>>>>>>>>>>>>>>>>>----   84.82 %
-Bash             56 mins         >------------------------   05.56 %
-SQL              31 mins         >------------------------   03.13 %
-go.mod           28 mins         >------------------------   02.83 %
-Shell Script     11 mins         -------------------------   01.09 %
-YAML             10 mins         -------------------------   01.03 %
-Python           7 mins          -------------------------   00.71 %
-Text             6 mins          -------------------------   00.64 %
-Dockerfile       0 secs          -------------------------   00.09 %
-Markdown         0 secs          -------------------------   00.07 %
+Go               10 hrs 28 mins  >>>>>>>>>>>>>>>>>>>>>----   82.57 %
+Bash             56 mins         >>-----------------------   07.41 %
+SQL              31 mins         >------------------------   04.17 %
+go.mod           14 mins         -------------------------   01.87 %
+Shell Script     11 mins         -------------------------   01.45 %
+YAML             10 mins         -------------------------   01.37 %
+Text             5 mins          -------------------------   00.73 %
+Python           1 min           -------------------------   00.19 %
+Dockerfile       0 secs          -------------------------   00.11 %
+Markdown         0 secs          -------------------------   00.10 %
 ```
 
 <!--END_SECTION:waka-->
