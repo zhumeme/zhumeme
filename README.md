@@ -18,13 +18,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 May 2024 - To: 12 May 2024
+From: 06 May 2024 - To: 13 May 2024
 
-Total Time: 1 hr 9 mins
+Total Time: 24 hrs 19 mins
 
-Go             1 hr 8 mins     >>>>>>>>>>>>>>>>>>>>>>>>>   98.13 %
-Vim Script     1 min           -------------------------   01.82 %
-Other          0 secs          -------------------------   00.04 %
+Go                   23 hrs 55 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.41 %
+Shell Script         6 mins          -------------------------   00.47 %
+Makefile             6 mins          -------------------------   00.47 %
+x86 Plan9 Assembly   6 mins          -------------------------   00.41 %
+Vim Script           1 min           -------------------------   00.09 %
+Text                 0 secs          -------------------------   00.06 %
+Assembly             0 secs          -------------------------   00.05 %
+go.mod               0 secs          -------------------------   00.02 %
+JavaScript           0 secs          -------------------------   00.01 %
+Bash                 0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
