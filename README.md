@@ -18,15 +18,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 13 June 2024 - To: 20 June 2024
+From: 14 June 2024 - To: 21 June 2024
 
-Total Time: 12 hrs 55 mins
+Total Time: 21 hrs 44 mins
 
-Go               11 hrs 37 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.28 %
-Rust             39 mins         >------------------------   05.10 %
-Python           22 mins         >------------------------   02.87 %
-C++              8 mins          -------------------------   01.10 %
-Other            5 mins          -------------------------   00.76 %
+Go                   19 hrs 34 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.77 %
+Rust                 53 mins         >------------------------   04.12 %
+Bash                 26 mins         >------------------------   02.06 %
+Python               22 mins         -------------------------   01.71 %
+C++                  13 mins         -------------------------   01.01 %
+CMake                4 mins          -------------------------   00.35 %
+Other                4 mins          -------------------------   00.31 %
 ```
 
 <!--END_SECTION:waka-->
