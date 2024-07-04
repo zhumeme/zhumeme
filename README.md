@@ -18,14 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 25 June 2024 - To: 02 July 2024
+From: 26 June 2024 - To: 03 July 2024
 
-Total Time: 14 hrs 24 mins
+Total Time: 8 hrs 28 mins
 
-Go                   13 hrs 23 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.66 %
-Shell Script         19 mins         >------------------------   02.19 %
-Bash                 18 mins         >------------------------   02.09 %
-Other                12 mins         -------------------------   01.42 %
+Go                   7 hrs 57 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.67 %
+Other                12 mins         >------------------------   02.40 %
 ```
 
 <!--END_SECTION:waka-->
