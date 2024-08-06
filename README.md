@@ -18,15 +18,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 28 July 2024 - To: 04 August 2024
+From: 29 July 2024 - To: 05 August 2024
 
-Total Time: 5 hrs 8 mins
+Total Time: 50 mins
 
-Go         4 hrs 58 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.79 %
-YAML       7 mins          >------------------------   02.32 %
-Makefile   1 min           -------------------------   00.60 %
-go.mod     0 secs          -------------------------   00.29 %
-JSON       0 secs          -------------------------   00.00 %
+Go       43 mins         >>>>>>>>>>>>>>>>>>>>>----   84.81 %
+YAML     7 mins          >>>>---------------------   14.07 %
+go.mod   0 secs          -------------------------   01.10 %
+JSON     0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
