@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 August 2024 - To: 12 August 2024
+From: 06 August 2024 - To: 13 August 2024
 
-Total Time: 12 hrs 42 mins
+Total Time: 8 hrs 16 mins
 
-Go            12 hrs 35 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.04 %
-Makefile      6 mins          -------------------------   00.90 %
-Other         0 secs          -------------------------   00.04 %
+Go            8 hrs 11 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.96 %
+Makefile      4 mins          -------------------------   00.96 %
+Other         0 secs          -------------------------   00.05 %
 ```
 
 <!--END_SECTION:waka-->
