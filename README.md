@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 15 November 2024 - To: 22 November 2024
+From: 16 November 2024 - To: 23 November 2024
 
 Total Time: 11 mins
 
