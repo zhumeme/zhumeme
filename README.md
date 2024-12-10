@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 01 December 2024 - To: 08 December 2024
+From: 02 December 2024 - To: 09 December 2024
 
-Total Time: 12 hrs 29 mins
+Total Time: 11 hrs 42 mins
 
-Go         11 hrs 21 mins  >>>>>>>>>>>>>>>>>>>>>----   85.94 %
-Text       51 mins         >>-----------------------   06.53 %
-Other      43 mins         >------------------------   05.52 %
+Go         10 hrs 34 mins  >>>>>>>>>>>>>>>>>>>>>----   83.93 %
+Other      54 mins         >>-----------------------   07.15 %
 ```
 
 <!--END_SECTION:waka-->
