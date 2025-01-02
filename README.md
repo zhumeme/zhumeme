@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
-Total Time: 13 mins
+Total Time: 2 mins
 
-SQL   10 mins         >>>>>>>>>>>>>>>>>>>>-----   81.38 %
-Go    2 mins          >>>>>--------------------   18.62 %
+Go    2 mins          >>>>>>>>>>>>>>>>>>>>>>>--   93.91 %
+SQL   0 secs          >>-----------------------   06.09 %
 ```
 
 <!--END_SECTION:waka-->
