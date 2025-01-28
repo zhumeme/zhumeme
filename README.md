@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 January 2025 - To: 26 January 2025
+From: 20 January 2025 - To: 27 January 2025
 
 Total Time: 1 hr 42 mins
 
-Python             1 hr 25 mins    >>>>>>>>>>>>>>>>>>>>>----   83.34 %
+Python             1 hr 23 mins    >>>>>>>>>>>>>>>>>>>>-----   81.64 %
+Go                 5 mins          >------------------------   05.50 %
 YAML               5 mins          >------------------------   05.05 %
 Markdown           4 mins          >------------------------   04.89 %
-Go                 3 mins          >------------------------   03.78 %
 Git                1 min           -------------------------   01.00 %
 HTTP Request       0 secs          -------------------------   00.81 %
 Requirements.txt   0 secs          -------------------------   00.50 %
 Text               0 secs          -------------------------   00.36 %
-GitIgnore file     0 secs          -------------------------   00.19 %
+GitIgnore file     0 secs          -------------------------   00.18 %
 SQL                0 secs          -------------------------   00.07 %
 ```
 
