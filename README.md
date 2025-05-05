@@ -18,16 +18,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 26 April 2025 - To: 03 May 2025
+From: 27 April 2025 - To: 04 May 2025
 
-Total Time: 20 hrs 1 min
+Total Time: 14 hrs 10 mins
 
-Go           18 hrs 35 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.82 %
-YAML         45 mins         >------------------------   03.81 %
-SQL          34 mins         >------------------------   02.89 %
-Git Config   5 mins          -------------------------   00.43 %
-Python       0 secs          -------------------------   00.03 %
-Other        0 secs          -------------------------   00.01 %
+Go       12 hrs 57 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.45 %
+YAML     39 mins         >------------------------   04.63 %
+SQL      32 mins         >------------------------   03.87 %
+Python   0 secs          -------------------------   00.04 %
+Git      0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
