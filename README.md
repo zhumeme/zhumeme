@@ -18,12 +18,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 April 2025 - To: 07 May 2025
+From: 01 May 2025 - To: 08 May 2025
 
-Total Time: 8 hrs 48 mins
+Total Time: 12 hrs 19 mins
 
-Go    8 hrs 42 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.87 %
-SQL   5 mins          -------------------------   01.13 %
+Go     11 hrs 48 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   95.81 %
+JSON   25 mins         >------------------------   03.38 %
+SQL    5 mins          -------------------------   00.80 %
+Git    0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
