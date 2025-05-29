@@ -18,13 +18,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 20 May 2025 - To: 27 May 2025
+From: 21 May 2025 - To: 28 May 2025
 
-Total Time: 19 hrs 22 mins
+Total Time: 19 hrs 7 mins
 
-Go              18 hrs 17 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.48 %
-YAML            39 mins         >------------------------   03.34 %
-Other           10 mins         -------------------------   00.93 %
+Go              15 hrs 10 mins  >>>>>>>>>>>>>>>>>>>>-----   78.29 %
+Makefile        1 hr 9 mins     >------------------------   05.94 %
+TypeScript      48 mins         >------------------------   04.13 %
+YAML            36 mins         >------------------------   03.13 %
+JSON            28 mins         >------------------------   02.41 %
+Git             23 mins         >------------------------   02.03 %
+Other           14 mins         -------------------------   01.26 %
 ```
 
 <!--END_SECTION:waka-->
