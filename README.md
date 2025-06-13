@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 04 June 2025 - To: 11 June 2025
+From: 05 June 2025 - To: 12 June 2025
 
-Total Time: 5 hrs 41 mins
+Total Time: 6 hrs 3 mins
 
-Go     5 hrs 33 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.62 %
-YAML   8 mins          >------------------------   02.38 %
+Go     5 hrs 55 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.77 %
+YAML   8 mins          >------------------------   02.23 %
 ```
 
 <!--END_SECTION:waka-->
