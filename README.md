@@ -18,15 +18,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 02 September 2025 - To: 09 September 2025
+From: 03 September 2025 - To: 10 September 2025
 
 Total Time: 3 hrs 48 mins
 
-Go           3 hrs 35 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.30 %
-Bash         7 mins          >------------------------   03.17 %
-INI          2 mins          -------------------------   01.05 %
-JavaScript   2 mins          -------------------------   01.04 %
-Assembly     1 min           -------------------------   00.45 %
+Go         3 hrs 38 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.35 %
+Bash       7 mins          >------------------------   03.16 %
+INI        2 mins          -------------------------   01.05 %
+Assembly   1 min           -------------------------   00.45 %
 ```
 
 <!--END_SECTION:waka-->
