@@ -18,20 +18,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 09 October 2025 - To: 16 October 2025
+From: 10 October 2025 - To: 17 October 2025
 
-Total Time: 8 hrs 14 mins
+Total Time: 13 hrs 31 mins
 
-Go           4 hrs 47 mins   >>>>>>>>>>>>>>-----------   57.98 %
-JSON         1 hr 54 mins    >>>>>>-------------------   23.07 %
-Bash         34 mins         >>-----------------------   06.86 %
-YAML         22 mins         >------------------------   04.50 %
-Git Config   11 mins         >------------------------   02.24 %
-Python       9 mins          -------------------------   01.98 %
-Vue.js       7 mins          -------------------------   01.50 %
-SQL          5 mins          -------------------------   01.03 %
-Markdown     2 mins          -------------------------   00.52 %
-Other        1 min           -------------------------   00.25 %
+Go           8 hrs 49 mins   >>>>>>>>>>>>>>>>---------   63.39 %
+JSON         2 hrs 8 mins    >>>>---------------------   15.40 %
+Text         41 mins         >------------------------   04.92 %
+Bash         34 mins         >------------------------   04.07 %
+Other        23 mins         >------------------------   02.80 %
 ```
 
 <!--END_SECTION:waka-->
