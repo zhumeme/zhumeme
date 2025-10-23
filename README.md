@@ -18,16 +18,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 14 October 2025 - To: 21 October 2025
+From: 15 October 2025 - To: 22 October 2025
 
-Total Time: 17 hrs 39 mins
+Total Time: 14 hrs 6 mins
 
-Go           11 hrs 46 mins  >>>>>>>>>>>>>>>>---------   65.19 %
-JSON         2 hrs 30 mins   >>>----------------------   13.89 %
-YAML         1 hr 11 mins    >>-----------------------   06.62 %
-Text         41 mins         >------------------------   03.80 %
-Bash         34 mins         >------------------------   03.14 %
-Other        23 mins         >------------------------   02.16 %
+Go           9 hrs 37 mins   >>>>>>>>>>>>>>>>>--------   66.40 %
+JSON         1 hr 21 mins    >>-----------------------   09.42 %
+YAML         1 hr 11 mins    >>-----------------------   08.25 %
+Text         41 mins         >------------------------   04.73 %
+Other        22 mins         >------------------------   02.60 %
 ```
 
 <!--END_SECTION:waka-->
