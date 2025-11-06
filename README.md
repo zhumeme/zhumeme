@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 27 October 2025 - To: 03 November 2025
+From: 29 October 2025 - To: 05 November 2025
 
-Total Time: 0 secs
+Total Time: 15 mins
 
-No activity tracked
+JSON   12 mins         >>>>>>>>>>>>>>>>>>>>-----   81.69 %
+Go     2 mins          >>>>>--------------------   18.31 %
 ```
 
 <!--END_SECTION:waka-->
