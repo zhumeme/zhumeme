@@ -18,15 +18,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 13 December 2025 - To: 20 December 2025
+From: 14 December 2025 - To: 21 December 2025
 
-Total Time: 59 mins
+Total Time: 49 mins
 
-TypeScript   33 mins         >>>>>>>>>>>>>>-----------   54.94 %
-TOML         21 mins         >>>>>>>>>----------------   35.88 %
-JavaScript   4 mins          >>-----------------------   08.27 %
-YAML         0 secs          -------------------------   00.45 %
-Other        0 secs          -------------------------   00.27 %
+TypeScript   25 mins         >>>>>>>>>>>>>------------   50.75 %
+TOML         19 mins         >>>>>>>>>>---------------   38.39 %
+JavaScript   4 mins          >>>----------------------   10.00 %
+YAML         0 secs          -------------------------   00.54 %
+JSON         0 secs          -------------------------   00.13 %
+TSConfig     0 secs          -------------------------   00.12 %
+Other        0 secs          -------------------------   00.07 %
 ```
 
 <!--END_SECTION:waka-->
