@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 April 2026 - To: 23 April 2026
+From: 17 April 2026 - To: 24 April 2026
 
-Total Time: 2 hrs 20 mins
+Total Time: 1 hr 41 mins
 
-Markdown     1 hr 45 mins          >>>>>>>>>>>>>>>>>>-------   72.25 %
-TypeScript   31 mins               >>>>>--------------------   21.41 %
-Other        4 mins                >------------------------   03.42 %
+Markdown     1 hr 11 mins          >>>>>>>>>>>>>>>>>--------   67.09 %
+TypeScript   25 mins               >>>>>>-------------------   24.29 %
+Other        4 mins                >------------------------   04.64 %
 ```
 
 <!--END_SECTION:waka-->
